@@ -1,1 +1,2 @@
-# FakeNinjaWebKey
+ek Ninja 
+open 
